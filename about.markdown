@@ -4,15 +4,32 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<center style="filter: grayscale(100%)">
+  {% avatar kimpastro size=300 %}
+</center>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Hey there!
 
+I'm Kim pastro, an individual who loves coding.
 
-[jekyll-organization]: https://github.com/jekyll
+Here I want to write about things that I'm learning in web development with Ruby.
+
+### My Skills
+
+- Ruby
+- CSS
+- JavaScript
+- Jekyll
+- and more!
+
+### My Interests
+
+I'm particularly interested in back-end development and system performance.
+
+### Let's connect
+
+You can reach me at:
+- Email: kimpastro@protonmail.com
+- Twitter: [@kimpastro](https://twitter.com/kimpastro)
+- GitHub: [github.com/kimpastro](https://github.com/kimpastro)
